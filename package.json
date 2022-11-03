@@ -1,6 +1,5 @@
 {
-  "name": "pemesanan-gas",
-  "private": true,
+  "name": "buy-yummy",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
